@@ -40,3 +40,10 @@ Working on the dashboard also gave me more practice in choosing suitable charts 
 ## If I Continue This Project
 
 I would like to explore the review text in more detail and see whether customer opinions are related to ratings. I would also like to compare more brands and look at price and rating patterns.
+
+
+## Dashboard
+
+### Power BI Dashboard
+
+![Nykaa Power BI Dashboard](Nykaa-Dashboard-1.png)
